@@ -1,0 +1,35 @@
+{
+  "legacyEditor": false,
+  "spellcheck": true,
+  "attachmentFolderPath": "z - attachments",
+  "alwaysUpdateLinks": true,
+  "spellcheckLanguages": [
+    "es",
+    "en-CA"
+  ],
+  "tabSize": 4,
+  "newFileLocation": "current",
+  "readableLineLength": true,
+  "showIndentGuide": false,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 66
+  },
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showUnsupportedFiles": true,
+  "vimMode": false,
+  "livePreview": true,
+  "useTab": true,
+  "smartIndentList": true,
+  "autoPairMarkdown": true,
+  "focusNewTab": true,
+  "showLineNumber": false,
+  "rightToLeft": false
+}

@@ -1,0 +1,17 @@
+---
+source: PHB 123
+tag: table
+---
+
+### Standard Languages
+---
+|Language|Typical Speakers|Script|
+|------|------|------|
+|Common|Humans|Common|
+|Dwarvish|Dwarves|Dwarvish|
+|Elvish|Elves|Elvish|
+|Giant|Ogres, giants|Dwarvish|
+|Gnomish|Gnomes|Dwarvish|
+|Goblin|Goblinoids|Dwarvish|
+|Halfling|Halflings|Common|
+|Orc|Orcs|Dwarvish|

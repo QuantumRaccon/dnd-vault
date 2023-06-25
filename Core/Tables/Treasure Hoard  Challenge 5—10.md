@@ -1,0 +1,43 @@
+---
+source: DMG 133
+tag: table
+---
+
+### Treasure Hoard: Challenge 5—10
+---
+|CP|SP|EP|GP|PP|
+|----|----|----|----|----|----|
+|**2d6 × 100** (700)|**2d6 × 1,000** (7,000)|— |**6d6 × 100** (2,100)|**3d6 × 10** (105)|
+
+|d100|Gems or Art Objects|Magic Items|
+|----|-----|-----------|
+|01-04|—|—|
+|05-10|**2d4** (5) 25 gp art objects|—|
+|11-16|**3d6** (10) 50 gp gems|—|
+|17-22|**3d6** (10) 100 gp gems|—|
+|23-28|**2d4** (5) 250 gp art objects|—|
+|29-32|**2d4** (5) 25 gp art objects|Roll **1d6** times on [[Magic Item Table A]].|
+|33-36|**3d6** (10) 50 gp gems|Roll **1d6** times on [[Magic Item Table A]].|
+|37-40|**3d6** (10) 100 gp gems|Roll **1d6** times on [[Magic Item Table A]].|
+|41-44|**2d4** (5) 250 gp art objects|Roll **1d6** times on [[Magic Item Table A]].|
+|45-49|**2d4** (5) 25 gp art objects|Roll **1d4** times on [[Magic Item Table B]].|
+|50-54|**3d6** (10) 50 gp gems|Roll **1d4** times on [[Magic Item Table B]].|
+|55-59|**3d6** (10) 100 gp gems|Roll **1d4** times on [[Magic Item Table B]].|
+|60-63|**2d4** (5) 250 gp art objects|Roll **1d4** times on [[Magic Item Table B]].|
+|64-66|**2d4** (5) 25 gp art objects|Roll **1d4** times on [[Magic Item Table C]].|
+|67-69|**3d6** (10) 50 gp gems|Roll **1d4** times on [[Magic Item Table C]].|
+|70-72|**3d6** (10) 100 gp gems|Roll **1d4** times on [[Magic Item Table C]].|
+|73-74|**2d4** (5) 250 gp art objects|Roll **1d4** times on [[Magic Item Table C]].|
+|75-76|**2d4** (5) 25 gp art objects|Roll once on [[Magic Item Table D]].|
+|77-78|**3d6** (10) 50 gp gems|Roll once on [[Magic Item Table D]].|
+|79|**3d6** (10) 100 gp gems|Roll once on [[Magic Item Table D]].|
+|80|**2d4** (5) 250 gp art objects|Roll once on [[Magic Item Table D]].|
+|81-84|**2d4** (5) 25 gp art objects|Roll **1d4** times on [[Magic Item Table F]].|
+|85-88|**3d6** (10) 50 gp gems|Roll **1d4** times on [[Magic Item Table F]].|
+|89-91|**3d6** (10) 100 gp gems|Roll **1d4** times on [[Magic Item Table F]].|
+|92-94|**2d4** (5) 250 gp art objects|Roll **1d4** times on [[Magic Item Table F]].|
+|95-96|**3d6** (10) 100 gp gems|Roll **1d4** times on [[Magic Item Table G]].|
+|97-98|**2d4** (5) 250 gp art objects|Roll **1d4** times on [[Magic Item Table G]].|
+|99|**3d6** (10) 100 gp gems|Roll once on [[Magic Item Table H]].|
+|00|**2d4** (5) 250 gp art objects|Roll once on [[Magic Item Table H]].|
+

@@ -1,0 +1,13 @@
+---
+source: DMG 134
+tag: table
+---
+
+### 5,000 gp Gemstones
+---
+|d4|Stone Description|
+|----|------------|
+|1|[[Black sapphire]] (translucent lustrous black with glowing highlights)|
+|2|[[Diamond]] (transparent blue-white, canary, pink, brown, or blue)|
+|3|[[Jacinth]] (transparent fiery orange)|
+|4|[[Ruby]] (transparent clear red to deep crimson)|

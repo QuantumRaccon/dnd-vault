@@ -1,0 +1,15 @@
+---
+source: ERLW 87
+tag: table
+---
+
+### Investigative Expertise
+---
+|d6|Investigation|
+|----|------------|
+|1|. You seek people who are lost, in hiding, on the run, or victims of foul play.|
+|2|. Whether it's a stolen painting or a family heirloom, you excel at finding lost items.|
+|3|. The powerful often escape justice due to their wealth and influence. Their victims sometimes turn to you, hoping you'll help set things right.|
+|4|. The city watch must obey the rules to bring criminals to justice. When the rules need to be bent or broken, they turn to you for help.|
+|5|. You put your inquisitive skills to use inquiring into others' mysterious backgrounds.|
+|6|. You provide services for a specific organization. Perhaps you travel on airships to provide security or work in a casino to catch cheaters.|

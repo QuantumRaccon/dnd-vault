@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "935f65d9f8589edc",
+    "type": "split",
+    "children": [
+      {
+        "id": "e37a1df544475aaf",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e1db4292af553dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc97bf36a9cf0737",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d16e64993aa8de04",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c99b7278ac944a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b1455a578bd86a8c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280
+  },
+  "right": {
+    "id": "32df1f52ac0a1093",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c344f7f4f9fed8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64ee198b2d8477fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e4e250b5e9adcb69",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "48e427af713c63b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "907239f47421e551",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "216e890711185f9e",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b0ccc7f4a1b03a6",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9180def402853376",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91f9b7bd6f23aa51",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308.5
+  },
+  "active": "e37a1df544475aaf",
+  "lastOpenFiles": [
+    "Core/Monsters/Will Oakland.md",
+    "Core/Spells/Spike Growth.md",
+    "Dataview Queries.md",
+    "Core/Spells/Cone of Cold.md",
+    "Core/Spells/Ensnaring Strike.md",
+    "Core/Spells/Entangle.md",
+    "Core/Spells/Call a Roggenwolf.md",
+    "Core/Spells/Summon Bestial Spirit.md",
+    "Core/Spells/Summon Beast.md",
+    "Core/Spells/Lesser Restoration.md"
+  ]
+}

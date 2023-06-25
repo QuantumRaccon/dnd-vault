@@ -1,0 +1,29 @@
+---
+source: DMG 113
+tag: table
+---
+
+### Shop
+---
+|d20|Type|
+|----|------------|
+|1|Pawnshop|
+|2|Herbs/incense|
+|3|Fruits/vegetables|
+|4|Dried meats|
+|5|Pottery|
+|6|Undertaker|
+|7|Books|
+|8|Moneylender|
+|9|Weapons/armor|
+|10|Chandler|
+|11|Smithy|
+|12|Carpenter|
+|13|Weaver|
+|14|Jeweler|
+|15|Baker|
+|16|Mapmaker|
+|17|Tailor|
+|18|Ropemaker|
+|19|Mason|
+|20|Scribe|

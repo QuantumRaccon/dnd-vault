@@ -1,0 +1,40 @@
+
+- Escapar de la ciudad con el esferon y Hanso: 2
+- Sobrevivir en la cueva de los asechadores: 0.5
+- Descubrir a Fim y hablar cosas: 0.5
+- Pasar bosque de la niebla: 1
+- Encontrar cueva Cristales Solares: 0.5
+- Hablar con Girt: 0.5
+- Adentrarse a la ciudad perdida y hablar con Luclius: 0.5
+- Pasar las catacumbas: 0.5
+- Pasar el lago: 1
+- Adentrarse en las cuevas asechadores y salvar a Hanso: 3
+- Entrar a la ciudad del lago e interactuar con estatua y cristal: 1
+- Rolear locura: 1
+- Matar asechador y salvar masita: 1
+- Salvar Lucilius: 1
+- Descubrir Lore de Lucilius: 0.5
+- Curarse locura: 1
+- Hablar con entidad extraña: 1
+- Interactuar con Myconids: 1
+- Hablar con Esferon: 2
+- Encontrar espías: 0.5
+- Salvar Soberanos y El soberano y fim: 2
+- Enfrentarse al Grick: 0.5
+- Convencer y hablar con Varios myconids importantes: 0.5
+- Encontrarse a Godaku: 2
+- Evitar orcos: 0.5
+- Hablar gnomos: 0.5
+- Evitar Umber Hulk: 0.5 
+- Destruyeron roper: 1
+- Arbol raro: 0.5
+- Cruzaron puente: 0.5
+- Derrotan asechador invisible: 2
+- llegan a la ciudad enana: 1
+- Enfrentan gigante: 0.5
+- Leena entra ciudad: 0.5
+- Leena enfrenta bandidos: 1
+- Leena evita mindflayer y ademas habla con elder brain: 1.5
+- Leena escapa de la ciudad y enfrenta duergar: 0.5
+
+

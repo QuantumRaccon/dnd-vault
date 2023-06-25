@@ -1,0 +1,17 @@
+---
+source: DMG 144
+tag: table
+---
+
+### Magic Item Table A
+---
+|d100|Magic Item|
+|----|------------|
+|01-50|[[Potion of healing]]|
+|51-60|[[Spell scroll (cantrip)]]|
+|61-70|[[Potion of climbing]]|
+|71-90|[[Spell scroll (1st level)]]|
+|91-94|[[Spell scroll (2nd level)]]|
+|95-98|[[Potion of greater healing]]|
+|99|[[Bag of holding]]|
+|00|[[Driftglobe]]|

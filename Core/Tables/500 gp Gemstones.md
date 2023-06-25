@@ -1,0 +1,15 @@
+---
+source: DMG 134
+tag: table
+---
+
+### 500 gp Gemstones
+---
+|d6|Stone Description|
+|----|------------|
+|1|[[Alexandrite]] (transparent dark green)|
+|2|[[Aquamarine]] (transparent pale blue-green)|
+|3|[[Black pearl]] (opaque pure black)|
+|4|[[Blue spinel]] (transparent deep blue)|
+|5|[[Peridot]] (transparent rich olive green)|
+|6|[[Topaz]] (transparent golden yellow)|

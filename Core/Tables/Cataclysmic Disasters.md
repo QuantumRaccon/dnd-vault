@@ -1,0 +1,19 @@
+---
+source: DMG 28
+tag: table
+---
+
+### Cataclysmic Disasters
+---
+|d10|Cataclysmic Disaster|
+|----|------------|
+|1|Earthquake|
+|2|Famine/drought|
+|3|Fire|
+|4|Flood|
+|5|Plague/disease|
+|6|Rain of fire (meteoric impact)|
+|7|Storm (hurricane, tornado, tsunami)|
+|8|Volcanic eruption|
+|9|Magic gone awry or a planar warp|
+|10|Divine judgment|

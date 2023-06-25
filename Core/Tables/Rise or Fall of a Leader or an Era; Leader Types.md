@@ -1,0 +1,15 @@
+---
+source: DMG 27
+tag: table
+---
+
+### Leader Types
+---
+|d6|Leader Types|
+|----|------------|
+|1|Political|
+|2|Religious|
+|3|Military|
+|4|Crime/underworld|
+|5|Art/culture|
+|6|Philosophy/learning/magic|

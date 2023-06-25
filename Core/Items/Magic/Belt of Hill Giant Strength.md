@@ -1,0 +1,14 @@
+---
+source: DMG
+page: 155.0
+rarity: rare
+wondrous: True
+lootTables: ['Magic Item Table G']
+attunement: True
+type: ['wondrous item']
+tag: item/magic
+---
+
+While wearing this belt, your Strength score changes to 21. The item has no effect on you if your Strength without the belt is equal to or greater than the belt's score.
+
+

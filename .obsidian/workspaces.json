@@ -1,0 +1,396 @@
+{
+  "workspaces": {
+    "Empty": {
+      "main": {
+        "id": "935f65d9f8589edc",
+        "type": "split",
+        "children": [
+          {
+            "id": "8a80d94767979384",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9e1db4292af553dc",
+        "type": "split",
+        "children": [
+          {
+            "id": "bc97bf36a9cf0737",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d16e64993aa8de04",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9c99b7278ac944a4",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#theme",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b1455a578bd86a8c",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 240
+      },
+      "right": {
+        "id": "32df1f52ac0a1093",
+        "type": "split",
+        "children": [
+          {
+            "id": "0c344f7f4f9fed8e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "64ee198b2d8477fc",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "e4e250b5e9adcb69",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "48e427af713c63b9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "907239f47421e551",
+                "type": "leaf",
+                "state": {
+                  "type": "DICE_ROLLER_VIEW",
+                  "state": {}
+                }
+              },
+              {
+                "id": "216e890711185f9e",
+                "type": "leaf",
+                "state": {
+                  "type": "FANTASY_CALENDAR",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "horizontal",
+        "width": 391
+      },
+      "active": "8a80d94767979384"
+    },
+    "Siegfried": {
+      "main": {
+        "id": "935f65d9f8589edc",
+        "type": "split",
+        "children": [
+          {
+            "id": "16a9b67c7c7ee6cb",
+            "type": "split",
+            "children": [
+              {
+                "id": "4686a18fd2db8823",
+                "type": "leaf",
+                "dimension": 48.71541501976285,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Worlds/Cronicas de Ghalmor/Siegfried/Siegfried.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "6a29b476225f295a",
+                "type": "leaf",
+                "dimension": 31.521739130434785,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Worlds/Cronicas de Ghalmor/Cronicas de Ghalmor.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e217ed277327d0d4",
+                "type": "leaf",
+                "dimension": 19.76284584980237,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Worlds/Cronicas de Ghalmor/Siegfried/Features.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "6c00aba7f02b09ab",
+            "type": "split",
+            "children": [
+              {
+                "id": "c2019a2b1f9ca2ff",
+                "type": "leaf",
+                "dimension": 68.47826086956522,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Worlds/Cronicas de Ghalmor/Siegfried/Spellcasting.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "4bb559a4c48c4420",
+                "type": "leaf",
+                "dimension": 31.521739130434785,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Worlds/Cronicas de Ghalmor/Siegfried/Status.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "9e1db4292af553dc",
+        "type": "split",
+        "children": [
+          {
+            "id": "bc97bf36a9cf0737",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d16e64993aa8de04",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9c99b7278ac944a4",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#theme",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b1455a578bd86a8c",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 240
+      },
+      "right": {
+        "id": "32df1f52ac0a1093",
+        "type": "split",
+        "children": [
+          {
+            "id": "0c344f7f4f9fed8e",
+            "type": "tabs",
+            "dimension": 25,
+            "children": [
+              {
+                "id": "64ee198b2d8477fc",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Worlds/Cronicas de Ghalmor/Siegfried/Siegfried.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "e4e250b5e9adcb69",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Worlds/Cronicas de Ghalmor/Siegfried/Siegfried.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "48e427af713c63b9",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "907239f47421e551",
+                "type": "leaf",
+                "state": {
+                  "type": "DICE_ROLLER_VIEW",
+                  "state": {}
+                }
+              },
+              {
+                "id": "216e890711185f9e",
+                "type": "leaf",
+                "state": {
+                  "type": "FANTASY_CALENDAR",
+                  "state": {}
+                }
+              },
+              {
+                "id": "e330a7689c4c362a",
+                "type": "leaf",
+                "state": {
+                  "type": "initiative-tracker-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 5
+          },
+          {
+            "id": "292647361209cfde",
+            "type": "tabs",
+            "dimension": 51.581027667984195,
+            "children": [
+              {
+                "id": "e92933893464cf45",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Worlds/Cronicas de Ghalmor/Siegfried/Equipment.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "a5e5beeeeb42510a",
+            "type": "tabs",
+            "dimension": 23.418972332015812,
+            "children": [
+              {
+                "id": "b658048bad634ee8",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Worlds/Cronicas de Ghalmor/Siegfried/Attacks.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 428
+      },
+      "active": "4686a18fd2db8823"
+    }
+  },
+  "active": "Empty"
+}

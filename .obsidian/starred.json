@@ -1,0 +1,14 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Unspeakable Horror",
+      "path": "Core/Monsters/Unspeakable Horror.md"
+    },
+    {
+      "type": "file",
+      "title": "Lesser Star Spawn Emissary",
+      "path": "Core/Monsters/Lesser Star Spawn Emissary.md"
+    }
+  ]
+}

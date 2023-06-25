@@ -1,0 +1,442 @@
+{
+  "mapMarkers": [
+    {
+      "id": "Lich Dungeon",
+      "lastAccessed": 1651188553589,
+      "markers": [
+        {
+          "id": "ID_7a28c8fb0a0a",
+          "type": "Room",
+          "loc": [
+            -0.0933685302734375,
+            1.8349609375
+          ],
+          "link": "Room 2",
+          "layer": "%5B%5BLich%20Dungeon.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Its the entrance from the secrete lair, there is a pulley",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9a898809c87a",
+          "type": "Room",
+          "loc": [
+            -1.235565185546875,
+            0.66015625
+          ],
+          "link": "Room 1",
+          "layer": "%5B%5BLich%20Dungeon.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "A secret door",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f99b1bbabb99",
+          "type": "Encounter",
+          "loc": [
+            -0.44921875,
+            1.17578125
+          ],
+          "link": "Lich",
+          "layer": "%5B%5BLich%20Dungeon.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.587890625,
+            0.3367496339677892
+          ],
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": -0.04144287109375,
+              "lng": 1.5390625,
+              "id": "ID_e9e8f9ab8a4b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -0.18597412109375,
+              "lng": 1.50390625,
+              "id": "ID_d9db0b3a7b9b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -0.24847412109375,
+              "lng": 1.421875,
+              "id": "ID_99991a7ac8ca",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -0.41253662109375,
+              "lng": 1.43359375,
+              "id": "ID_5ad8c85bb849",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -0.58831787109375,
+              "lng": 1.4375,
+              "id": "ID_5919b8a81bf8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -0.57269287109375,
+              "lng": 1.26171875,
+              "id": "ID_49f85a792a3b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -0.47894287109375,
+              "lng": 1.17578125,
+              "id": "ID_c88b28a93969",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -0.68597412109375,
+              "lng": 1.0859375,
+              "id": "ID_388809ab4bf9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -0.81488037109375,
+              "lng": 1.125,
+              "id": "ID_8a8bebc928aa",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -0.90234375,
+              "lng": 1.3203125,
+              "id": "ID_fa7b3b7b780a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -0.88909912109375,
+              "lng": 1.51171875,
+              "id": "ID_ebeb0868892b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -0.76800537109375,
+              "lng": 1.49609375,
+              "id": "ID_181aebda59ab",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -0.76019287109375,
+              "lng": 1.67578125,
+              "id": "ID_386aeaeafb99",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -0.76800537109375,
+              "lng": 1.75390625,
+              "id": "ID_8a58388b284b",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -0.55316162109375,
+              "lng": 1.7734375,
+              "id": "ID_7a18692b89f9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -0.39691162109375,
+              "lng": 1.82421875,
+              "id": "ID_b948e8f8fac9",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -0.19378662109375,
+              "lng": 1.828125,
+              "id": "ID_cb18484aabe8",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -0.0933685302734375,
+              "lng": 1.8349609375,
+              "id": "ID_7929fbca4acb",
+              "targets": {
+                "vertexIds": [],
+                "markerId": "ID_7a28c8fb0a0a"
+              }
+            },
+            {
+              "lat": -0.0933685302734375,
+              "lng": 1.8349609375,
+              "id": "ID_99486a8ac8a9",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": false
+        }
+      ],
+      "files": [
+        "World/Dungeon/Dungeon.md"
+      ]
+    },
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1651608989136,
+      "markers": [],
+      "overlays": [],
+      "shapes": [
+        {
+          "type": "polyline",
+          "color": "#3388FF",
+          "vertices": [
+            {
+              "lat": -1.0125732421875,
+              "lng": 0.10546875,
+              "id": "ID_69a9c9db697a",
+              "targets": {
+                "vertexIds": []
+              }
+            },
+            {
+              "lat": -1.0234375,
+              "lng": 1.21875,
+              "id": "ID_580ad99a2979",
+              "targets": {
+                "vertexIds": [
+                  "ID_791bbb883af8"
+                ]
+              }
+            },
+            {
+              "lat": -1.0203857421875,
+              "lng": 1.203125,
+              "id": "ID_791bbb883af8",
+              "targets": {
+                "vertexIds": [
+                  "ID_580ad99a2979"
+                ]
+              }
+            },
+            {
+              "lat": -0.7547607421875,
+              "lng": 1.90234375,
+              "id": "ID_f9b938d8aa59",
+              "targets": {
+                "vertexIds": []
+              }
+            }
+          ],
+          "arrows": true,
+          "reversed": true
+        }
+      ],
+      "files": [
+        "z.Documentation/Leaflet.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Room",
+      "iconName": "angle-down",
+      "color": "#494fee",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "Room"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Encounter",
+      "iconName": "angle-double-down",
+      "color": "#e10909",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [
+        "Encounter"
+      ],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Player",
+      "iconName": "male",
+      "color": "#5c75f5",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Enemy",
+      "iconName": "male",
+      "color": "#b72a2a",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "NPC",
+      "iconName": "male",
+      "color": "#ffffff",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": true,
+  "layerMarkers": true,
+  "previousVersion": "5.6.1",
+  "version": {
+    "major": 5,
+    "minor": 6,
+    "patch": 1
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "true ",
+    "defaultZoom": "8",
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px ",
+    "image": "[[Lich Dungeon.png]] ",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Lich Dungeon.png]] "
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [
+      "default, 39.983334, -82.983330, [[Note]] "
+    ],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": "10 ",
+    "minZoom": "1 ",
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "Lich Dungeon",
+    "lat": "50",
+    "long": "50 ",
+    "unit": "feet scale",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>.",
+  "defaultTileSubdomains": "a,b,c"
+}

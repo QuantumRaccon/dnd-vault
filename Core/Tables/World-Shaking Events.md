@@ -1,0 +1,19 @@
+---
+source: DMG 27
+tag: table
+---
+
+### World-Shaking Events
+---
+|d10|Event|
+|----|------------|
+|1|Rise of a leader or an era|
+|2|Fall of a leader or an era|
+|3|Cataclysmic disaster|
+|4|Assault or invasion|
+|5|Rebellion, revolution, overthrow|
+|6|Extinction or depletion|
+|7|New organization|
+|8|Discovery, expansion, invention|
+|9|Prediction, omen, prophecy|
+|10|Myth and legend|

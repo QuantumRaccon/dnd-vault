@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "935f65d9f8589edc",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a70a415da4cb5c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86a11878e4bff251",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z - templates/character.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d65ac1439e34ea4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worlds/Los Esferones de Azhül/Hanso Old.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "022ab7a6e400b2ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core/Spells/Detect Magic.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e1db4292af553dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc97bf36a9cf0737",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d16e64993aa8de04",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c99b7278ac944a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b1455a578bd86a8c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "52b4c5873aa13cb1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "32df1f52ac0a1093",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c344f7f4f9fed8e",
+        "type": "tabs",
+        "dimension": 60.509554140127385,
+        "children": [
+          {
+            "id": "64ee198b2d8477fc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Core/Spells/Detect Magic.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e4e250b5e9adcb69",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Core/Spells/Detect Magic.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "48e427af713c63b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e5aae3e581e67be4",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "073576904a1fa090",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c62cf95b2a775693",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      },
+      {
+        "id": "e81f45ffc42dc4a0",
+        "type": "tabs",
+        "dimension": 39.490445859872615,
+        "children": [
+          {
+            "id": "720e41b17e6d4611",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-gallery:Gallery": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "initiative-tracker:Intiative Tracker Encounter Builder": false
+    }
+  },
+  "active": "022ab7a6e400b2ef",
+  "lastOpenFiles": [
+    "Nuevo Documento de texto.txt",
+    "Core/Database/data/races.json",
+    "Core/Database/data/classes.json",
+    "Core/Spells/Tasha's Caustic Brew.md",
+    "Core/Classes/Sorcerer/Subclasses/Astral Wanderer/Astral Arcana.md",
+    "Core/Classes/Sorcerer/Font of Magic.md",
+    "Core/Classes/Artificer/Subclases/Armorer/Arcane Armor.md",
+    "Worlds/Los Esferones de Azhül/Hanso Val'Tuk.md",
+    "Core/Classes/Artificer/Subclases/Artillerist/Artillerist.md",
+    "Core/Classes/Artificer/Subclases/Artillerist/Fortified Position.md",
+    "Core/Classes/Artificer/Subclases/Artillerist/Explosive Cannon.md",
+    "Core/Classes/Artificer/Subclases/Artillerist/Arcane Firearm.md",
+    "Core/Classes/Artificer/Subclases/Artillerist/Eldritch Cannon.md",
+    "Core/Classes/Artificer/Subclases/Artillerist/Tool Proficiency.md",
+    "Core/Classes/Artificer/Subclases/Artillerist/Artillerist Spells.md",
+    "Core/Classes/Ability Score Improvement.md",
+    "Worlds/Los Esferones de Azhül/Velkot.md",
+    "Worlds/Los Esferones de Azhül/Hanso Old.md",
+    "Core/Spells/Detect Magic.md",
+    "z - templates/character.md",
+    "Worlds/Los Esferones de Azhül/Señor Boom.md",
+    "Core/Classes/Artificer/Subclases/Artillerist/Eldritch Cannon Stats.md",
+    "Core/Classes/Artificer/Artificer.md",
+    "Core/Classes/Artificer/Tool Expertise.md",
+    "Core/Classes/Artificer/The Right Tool for the Job.md",
+    "Core/Classes/Artificer/Spellcasting.md",
+    "Core/Classes/Artificer/Spell-Storing Item.md",
+    "Core/Classes/Artificer/Soul of Artifice.md",
+    "Core/Database/__pycache__/parse_json.cpython-310.pyc",
+    "Core/Database/__pycache__/regex.cpython-310.pyc",
+    "Core/Database/__pycache__/module.cpython-310.pyc",
+    "Core/Classes/Artificer/Subclases/Artillerist",
+    "Worlds/Los Esferones de Azhül/files/~$Speed.xlsx",
+    "z - attachments/Pasted image 20230621170320.png",
+    "Untitled.canvas",
+    "Worlds/Oneshot Tomy/Rex.pdf",
+    "z - attachments/Rex.png",
+    "Books/Return of the Lazy Dungeon Master.pdf",
+    "Worlds/Los Esferones de Azhül/files/F751D400"
+  ]
+}

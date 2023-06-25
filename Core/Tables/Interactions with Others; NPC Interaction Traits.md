@@ -1,0 +1,21 @@
+---
+source: DMG 90
+tag: table
+---
+
+### NPC Interaction Traits
+---
+|d12|Trait|
+|----|------------|
+|1|Argumentative|
+|2|Arrogant|
+|3|Blustering|
+|4|Rude|
+|5|Curious|
+|6|Friendly|
+|7|Honest|
+|8|Hot tempered|
+|9|Irritable|
+|10|Ponderous|
+|11|Quiet|
+|12|Suspicious|

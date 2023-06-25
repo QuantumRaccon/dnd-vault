@@ -1,0 +1,17 @@
+---
+source: DMG 29
+tag: table
+---
+
+### Invading Forces
+---
+|d8|Invading Forces|
+|----|------------|
+|1|A criminal enterprise|
+|2|Monsters or a unique monster|
+|3|A planar threat|
+|4|A past adversary reawakened, reborn, or resurgent|
+|5|A splinter faction|
+|6|A savage tribe|
+|7|A secret society|
+|8|A traitorous ally|

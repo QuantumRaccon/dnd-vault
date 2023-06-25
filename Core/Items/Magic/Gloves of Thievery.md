@@ -1,0 +1,13 @@
+---
+source: DMG
+page: 172.0
+rarity: uncommon
+wondrous: True
+lootTables: ['Magic Item Table F']
+type: ['wondrous item']
+tag: item/magic
+---
+
+These gloves are [[invisible]] while worn. While wearing them, you gain a +5 bonus to Dexterity (Sleight of Hand) checks and Dexterity checks made to pick locks.
+
+

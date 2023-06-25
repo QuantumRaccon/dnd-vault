@@ -1,0 +1,58 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": "plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasReceipt",
+      "RiSwordFill",
+      "RiTableLine",
+      "FasTable",
+      "RiRulerFill"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    },
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "emojiStyle": "none",
+    "iconInTabsEnabled": false
+  },
+  "World/Dungeon": "FasDungeon",
+  "World/Events": "RiCalendarEventLine",
+  "World/Family": "RiParentLine",
+  "Siegfried": "FasPerson",
+  "Core": "FasBook",
+  "Core/Magic items": "RiMagicLine",
+  "Core/Classes": "FasPencil",
+  "Core/Classes/Sorcerer": "RiFireFill",
+  "Core/Classes/Sorcerer/Subclasses/Wild Magic Variant": "FasDice",
+  "Core/Races": "FasPerson",
+  "Core/Classes/Sorcerer/Subclasses/Astral Wanderer": "RiStarLine",
+  "Worlds": "RiEarthLine",
+  "z - attachments": "FasImage",
+  "z - documentation": "FasScroll",
+  "z - templates": "RiFilePaperFill",
+  "Core/Database": "FasDatabase",
+  "Core/Conditions": "RiInformationFill",
+  "Core/Languages": "FasLanguage",
+  "Core/Items": "RiMagicFill",
+  "Core/Feats & Skills": "RiTaskFill",
+  "Core/Traps & Hazards": "FasBomb",
+  "Core/Spells": "FasFire",
+  "Core/Rules": "RiRulerFill",
+  "Core/Monsters": "FasSpaghettiMonsterFlying",
+  "Core/Tables": "RiTableLine",
+  "Core/Actions": "RiSwordFill",
+  "Core/Backgrounds": "FasReceipt"
+}

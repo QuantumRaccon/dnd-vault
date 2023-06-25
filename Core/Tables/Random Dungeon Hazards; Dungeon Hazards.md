@@ -1,0 +1,15 @@
+---
+source: DMG 296
+tag: table
+---
+
+### Dungeon Hazards
+---
+|d20|Hazard|
+|----|------------|
+|1-3|[[Brown mold]]|
+|4-8|[[Green slime]]|
+|9-10|[[Shrieker]]|
+|11-15|[[webs]]|
+|16-17|[[Violet fungus]]|
+|18-20|[[Yellow mold]]|

@@ -1,0 +1,48 @@
+---
+hp: 127
+ac: 16 (blood aegis)
+cr: 9
+initiative: 2
+type: 'humanoid (human, warlock)'    
+size: 'Medium'
+environment: None
+alignment: neutral evil
+legendary: False
+lair: False
+mythic: False
+regional: False
+tags: ['monster', 'monster/human', 'monster/warlock']
+source: "SCC"
+page: 172
+---
+
+## Y'demi
+---
+
+
+
+## Stats
+---
+
+```statblock
+creature: Y'demi
+image: None
+columnHeight: 500
+columnWidth: 500
+```
+
+## Encounter
+---
+
+```encounter-table
+name: Y'demi
+creatures:
+- 1: Y'demi
+```
+
+## Description
+---
+
+
+
+

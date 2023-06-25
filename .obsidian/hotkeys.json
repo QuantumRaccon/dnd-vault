@@ -1,0 +1,62 @@
+{
+  "image-window:open-image": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspaces:load": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "W"
+    }
+  ],
+  "templater-obsidian:replace-in-file-templater": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "obsidian-regex-replace:obsidian-regex-replace": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ]
+}

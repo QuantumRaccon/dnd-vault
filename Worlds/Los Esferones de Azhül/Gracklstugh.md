@@ -1,0 +1,4 @@
+---
+tag: settlement, city
+---
+

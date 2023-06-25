@@ -1,0 +1,462 @@
+[
+	{
+		"name": "Throat Leeches",
+		"source": "ToA",
+		"page": 40,
+		"entries": [
+			"Minuscule parasites known as throat leeches infect the water in Chult's forests, swamps, and rivers. Any giant or humanoid that swallows tainted water must succeed on a DC 12 Constitution saving throw or be infested with throat leeches. Immediate symptoms include throat inflammation and shortness of breath. After {@dice 1d6} hours, the infected character gains 1 level of {@condition exhaustion} that can't be removed (except as described below) until the disease is cured. At the end of each long rest, the infected creature must repeat the saving throw. On a failed save, the creature's {@condition exhaustion} increases by 1 level; on a successful save, the creature's {@condition exhaustion} decreases by 1 level. If a successful saving throw reduces the infected creature's level of {@condition exhaustion} below 1, the creature recovers from the disease.",
+			"Explorers can avoid contracting throat leeches by drinking only rainwater or water that's been boiled or magically purified."
+		]
+	},
+	{
+		"name": "The Gnawing Plague",
+		"source": "VRGR",
+		"page": 153,
+		"entries": [
+			"The Gnawing Plague, also known as \"the Gnaws,\" is known in every corner of Richemulot.",
+			{
+				"type": "entries",
+				"name": "Transmission",
+				"page": 153,
+				"entries": [
+					"The Gnaws is spread when a creature is bitten by a {@creature rat}, {@creature giant rat}, {@creature swarm of rats}, or {@creature wererat} that carries the disease, or by coming into physical contact with an infected creature."
+				]
+			},
+			{
+				"type": "entries",
+				"name": "Infection",
+				"page": 153,
+				"entries": [
+					"Creatures exposed to the disease must succeed on a DC 10 Constitution saving throw or become infected. The DC of this saving throw can increase depending on the severity of the plague's spread (see \"{@book Cycle of the Plague|VRGR|3|Cycle of the Plague}\" below)."
+				]
+			},
+			{
+				"type": "entries",
+				"name": "Symptoms",
+				"page": 153,
+				"entries": [
+					"It takes {@dice 1d2} days for the Gnawing Plague's symptoms to manifest in an infected creature. The infected creature then gains 1 level of {@condition exhaustion}, regains only half the normal number of hit points from spending Hit Dice, and regains no hit points from finishing a long rest.",
+					"The plague's symptoms include buboes, fatigue, splotchy rashes, sweats, and shaking, particularly facial tremors. Locals liken these twitches to the sniffing of rats. Sufferers often have scraps of leather placed in their mouths to prevent their teeth from clattering, though they inevitably gnaw through these scraps."
+				]
+			},
+			{
+				"type": "entries",
+				"name": "Recovery",
+				"page": 154,
+				"entries": [
+					"At the end of each long rest, an infected creature must make a DC 10 Constitution saving throw. On a failed save, the creature gains 1 level of {@condition exhaustion}. On a successful save, the creature's {@condition exhaustion} level decreases by 1. If a successful saving throw reduces the infected creature's level of {@condition exhaustion} below 1, the creature recovers from the disease."
+				]
+			},
+			{
+				"type": "entries",
+				"name": "Immunity",
+				"page": 154,
+				"entries": [
+					"All forms of rats and wererats are immune to the Gnawing Plague."
+				]
+			}
+		]
+	},
+	{
+		"name": "Super-Tetanus",
+		"source": "TftYP",
+		"page": 104,
+		"entries": [
+			"A creature that contracts the disease of super-tetanus is wracked with pain as its heart races and its muscles spasm hard enough to break its bones. The creature takes 11 ({@dice 2d10}) damage at the start of each of its turns. If a victim is not cured by other means, it can repeat the saving throw at the end of every minute after becoming exposed, ending the effect on itself with a successful save."
+		]
+	},
+	{
+		"name": "Spider Eggs",
+		"source": "WDMM",
+		"page": 47,
+		"entries": [
+			"If the party is defeated, stabilized characters awaken after {@dice 1d4} hours to find themselves cocooned in sticky webs and suspended 10 feet off the floor, with spider eggs implanted in their bodies. A cocooned character is {@condition restrained} and can use its action to try to escape by making a successful DC 15 Strength check.",
+			"Spider eggs implanted in a host hatch in {@dice 2d12} hours, killing the host as the baby spiders chew their way out. This infestation functions like a disease. A {@spell lesser restoration} spell or similar magic cast upon the host kills the spider eggs, ending the threat."
+		]
+	},
+	{
+		"name": "Slimy Doom",
+		"source": "PHB",
+		"page": 227,
+		"entries": [
+			"The creature begins to bleed uncontrollably. The creature has disadvantage on Constitution checks and Constitution saving throws. In addition, whenever the creature takes damage, it is {@condition stunned} until the end of its next turn.",
+			"{@note This disease can be inflicted with the {@spell contagion} spell.}"
+		]
+	},
+	{
+		"name": "Sight Rot",
+		"source": "DMG",
+		"page": 257,
+		"srd": true,
+		"entries": [
+			"This painful infection causes bleeding from the eyes and eventually blinds the victim.",
+			"A beast or humanoid that drinks water tainted by sight rot must succeed on a DC 15 Constitution saving throw or become infected. One day after infection, the creature's vision starts to become blurry. The creature takes a -1 penalty to attack rolls and ability checks that rely on sight. At the end of each long rest after the symptoms appear, the penalty worsens by 1. When it reaches -5, the victim is {@condition blinded} until its sight is restored by magic such as {@spell lesser restoration} or {@spell heal}.",
+			"Sight rot can be cured using a rare flower called Eyebright, which grows in some swamps. Given an hour, a character who has proficiency with an {@item herbalism kit|phb} can turn the flower into one dose of ointment. Applied to the eyes before a long rest, one dose of it prevents the disease from worsening after that rest. After three doses, the ointment cures the disease entirely."
+		]
+	},
+	{
+		"name": "Shivering Sickness",
+		"source": "ToA",
+		"page": 40,
+		"entries": [
+			"Insects native to the jungles and marshes of Chult carry this disease, shivering sickness. The easiest protection against it is a coating of insect-repelling salve on all exposed skin (for the cost of insect repellent, see {@adventure \"Buying a Special Item\"|ToA|1|Buying a Special Item}.",
+			"A giant or humanoid that takes damage from {@creature Swarm of Insects||insect swarms} or from {@creature giant centipede||giant centipedes}, {@creature giant scorpion||giant scorpions}, or {@creature giant wasp||giant wasps} is exposed to the disease at the end of the encounter. Those who haven't applied insect repellent since their previous long rest are exposed to the disease when they finish a long rest.",
+			"A giant or humanoid exposed to the disease must succeed on a DC 11 Constitution saving throw or become infected. A creature with natural armor has advantage on the saving throw. It takes {@dice 2d6} hours for symptoms to manifest in an infected creature. Symptoms include blurred vision, disorientation, and a sudden drop in body temperature that causes uncontrollable shivering and chattering of the teeth.",
+			"Once symptoms begin, the infected creature regains only half the normal number of hit points from spending Hit Dice and no hit points from a long rest. The infected creature also has disadvantage on ability checks and attack rolls. At the end of a long rest, an infected creature repeats the saving throw, shaking off the disease on a successful save."
+		]
+	},
+	{
+		"name": "Sewer Plague",
+		"source": "DMG",
+		"page": 257,
+		"srd": true,
+		"entries": [
+			"Sewer plague is a generic term for a broad category of illnesses that incubate in sewers, refuse heaps, and stagnant swamps, and which are sometimes transmitted by creatures that dwell in those areas, such as rats and otyughs.",
+			"When a humanoid creature is bitten by a creature that carries the disease, or when it comes into contact with filth or offal contaminated by the disease, the creature must succeed on a DC 11 Constitution saving throw or become infected.",
+			"It takes {@dice 1d4} days for sewer plague's symptoms to manifest in an infected creature. Symptoms include fatigue and cramps. The infected creature suffers one level of {@condition exhaustion}, and it regains only half the normal number of hit points from spending Hit Dice and no hit points from finishing a long rest.",
+			"At the end of each long rest, an infected creature must make a DC 11 Constitution saving throw. On a failed save, the character gains one level of {@condition exhaustion}.",
+			"On a successful save, the character's {@condition exhaustion} level decreases by one level. If a successful saving throw reduces the infected creature's level of {@condition exhaustion} below 1, the creature recovers from the disease."
+		]
+	},
+	{
+		"name": "Seizure",
+		"source": "PHB",
+		"page": 227,
+		"entries": [
+			"The creature is overcome with shaking. The creature has disadvantage on Dexterity checks, Dexterity saving throws, and attack rolls that use Dexterity.",
+			"{@note This disease can be inflicted with the {@spell contagion} spell.}"
+		]
+	},
+	{
+		"name": "Seeping Death",
+		"entries": [
+			"At the end of each long rest, the diseased creature must succeed on a DC 13 Constitution saving throw or its Dexterity score is reduced by {@dice 1d4}. The reduction lasts until the target finishes a long rest after the disease is cured. If the disease reduces the creature's Dexterity to 0, the creature dies and its body becomes a {@creature suppurating ooze|ccodex} {@dice 1d4} hours later. The disease lasts until removed by the {@spell lesser restoration} spell or other similar magic."
+		],
+		"source": "CCodex",
+		"page": 288
+	},
+	{
+		"name": "Saprophytic Plague",
+		"source": "CM",
+		"page": 253,
+		"entries": [
+			"Xanthoria's research into lichdom and her creation of a living phylactery led to the emergence of the plague spreading across the Sword Coast. Any beast or humanoid that comes within 10 feet of a creature infected by the saprophytic plague must succeed on a DC 20 Constitution saving throw or become infected as well. On a successful save, a creature is immune to the plague for 24 hours, and any creature that is immune to disease succeeds on the save automatically.",
+			"After a failed save, a creature experiences the first symptoms—body aches, nausea, slurred speech, and uncontrollable drooling—{@dice 1d4} hours later and gains 1 level of {@condition exhaustion}. Every 24 hours thereafter, the creature automatically gains another level of {@condition exhaustion}. Any creature killed by the saprophytic plague transforms into a lifeless magenta ooze.",
+			"A creature infected by the saprophytic plague for at least 24 hours behaves like a zombie and seems barely aware of its surroundings, as fungal growths sprout from its head, body, and limbs. It feels an overriding urge to be around groups of uninfected creatures so that it can spread the contagion. This is the time when infected humanoids begin speaking the word \"Xanthoria\" over and over, with no understanding of what the word means. This behavior is the result of a mycelial network of spores that forms a tenuous connection between Xanthoria and humanoids that become infected by the plague.",
+			"Foodstuffs that are exposed to the plague's spores decay or go sour within {@dice 2d12} hours, leaving behind a lurid magenta mass of oozing fungi. Eating infected food requires a saving throw as above.",
+			"Any magic that cures a disease can rid a creature of the saprophytic plague. Casting {@spell purify food and drink} destroys the infection in foodstuffs."
+		]
+	},
+	{
+		"name": "Redface",
+		"source": "GoS",
+		"page": 168,
+		"entries": [
+			"The effects of redface are identical to those of {@disease sight rot} (see \"{@book Diseases|DMG|8|Diseases}\" in chapter 8 of the {@book Dungeon Master's Guide|DMG}), but it's caused by pollutants in the air rather than contaminated drinking water, making it difficult to avoid."
+		]
+	},
+	{
+		"name": "Ophio Spores",
+		"source": "ToB2",
+		"page": 158,
+		"entries": [
+			"This disease affects humanoids who breathe. The eyes of infected creatures become glassy, and purple bruising appears on their spines, bulging as the disease progresses. At the end of each long rest after infection, an infected creature is wracked by terrible dreams or visions and must succeed a {@dc 15} Constitution saving throw or suffer one level of {@condition exhaustion} that can't be removed until the disease is cured. After the creature has two levels of {@condition exhaustion}, it moves to the second stage of the infection. During the first stage of infection, a {@spell lesser restoration} spell or similar magic ends the infection.",
+			"At the end of each long rest after the creature reaches the second stage of infection, it must succeed on a {@dc 15} Constitution saving throw or become a thrall of the ophio fungus, falling completely under its control. A victim in the second stage of the infection or that is completely under the fungus' control can be restored only by killing the fungus that caused the infection or through the use of a {@spell wish} spell."
+		]
+	},
+	{
+		"name": "Ooze Plague",
+		"source": "ToB2",
+		"page": 297,
+		"entries": [
+			"Until the disease is cured, the infected creature's skin slowly becomes more ooze-like, and its hp maximum decreases by 5 ({@damage 2d4}) for every 24 hours that elapse. This reduction lasts until the disease is cured. The creature dies if the disease reduces its hp maximum to 0. A humanoid slain by this disease rises 24 hours later as an {@creature ochre jelly}."
+		]
+	},
+	{
+		"name": "Mindfire",
+		"source": "PHB",
+		"page": 227,
+		"entries": [
+			"The creature's mind becomes feverish. The creature has disadvantage on Intelligence checks and Intelligence saving throws, and the creature behaves as if under the effects of the {@spell confusion} spell during combat.",
+			"{@note This disease can be inflicted with the {@spell contagion} spell.}"
+		]
+	},
+	{
+		"name": "Iumenta Pox",
+		"entries": [
+			"It takes {@dice 1d4} days for iumenta pox's symptoms to appear in an infected humanoid. A creature with iumenta pox has trouble breathing, and its skin erupts with painful green boils that ooze pus. As the disease progresses, these pustules turn black.",
+			"At the end of each long rest, an infected creature must succeed on a {@dc 13} Constitution saving throw or take 7 ({@damage 2d6}) necrotic damage. The creature's hp maximum is reduced by an amount equal to the damage taken. This reduction lasts until the disease is cured. The target dies if this effect reduces its hp maximum to 0. When an infected creature dies, its corpse rises as a mold zombie {@dice 1d4} hours after death. Iumenta pox can be cured with two successful saving throws."
+		],
+		"page": 395,
+		"source": "CCodex"
+	},
+	{
+		"name": "Grackle-Lung",
+		"source": "OotA",
+		"page": 54,
+		"entries": [
+			"The constant smog in Gracklstugh causes grackle-lung in living, breathing creatures, resulting in persistent, wracking coughs and the spewing of thick, black phlegm. Whenever a living, breathing creature finishes a long rest in Gracklstugh, it must make a DC 11 Constitution saving throw. On each failed save, the creature gains one level of {@condition exhaustion} as its airways become increasingly clogged. A creature that reaches level 6 {@condition exhaustion} dies, as normal.",
+			"A creature with one or more levels of {@condition exhaustion} brought on by grackle-lung must succeed on a Constitution check to take the {@action Dash} action. If the check fails, the action cannot be attempted. If the creature attempts to cast a spell with a verbal component, it must succeed on a Constitution check or be unable to complete the spell, causing the spell to fail with no effect. The DC for each check is 10 + the creature's current {@condition exhaustion} level.",
+			"If a creature's {@condition exhaustion} level drops below 1, it no longer suffers the effects of grackle-lung and becomes immune to it for the next week. Duergar and derro are inured to grackle-lung, making Constitution checks against it with advantage. Any spell or effect that cures disease also cures grackle-lung, effectively removing all levels of {@condition exhaustion} brought on by the affliction."
+		]
+	},
+	{
+		"name": "Ghoul Gut",
+		"source": "OoW",
+		"page": 111,
+		"entries": [
+			"Water polluted with ghoul parts carries ghoul gut. A creature drinking this tainted water must succeed on a DC 12 Constitution saving throw or contract the disease. Symptoms strike when a victim starts a long rest or next becomes excited, as during combat. A victim suffers severe cramps, and their bowels make sounds like two ghouls fighting. When the symptoms first strike, the victim takes 5 ({@dice 2d4}) necrotic damage. In addition, a diseased victim regains no hit points or Hit Dice from nonmagical sources, including resting or spending Hit Dice. A victim who finishes a long rest can attempt a DC 12 Constitution saving throw. On a successful save, the victim shakes off the disease. Failure deals the character another 5 ({@dice 2d4}) necrotic damage.",
+			"A character who succeeds on a DC 15 Wisdom ({@skill Medicine}) check can also remove the disease from another creature. Doing so requires the character making the check to care for the sick individual during a long rest. The caregiver gains no benefit from that rest."
+		]
+	},
+	{
+		"name": "Frigid Woe",
+		"source": "EGW",
+		"page": 125,
+		"entries": [
+			"Frigid woe is a special disease developed by Aeor's mages that cannot be cured by conventional treatment or magic. The only way a creature infected with the disease can be cured is by finding and drinking the manufactured antidote, a milky liquid stored in gold vials found in Eiselcross's ruins. This disease was created to slow down the forces of the gods and get around the healing power of their clerics and angels.",
+			"The disease is transmitted by breathing in blue spores that Aeor's mages created long ago. When a creature comes into contact with these spores, it must succeed on a DC 11 Constitution saving throw or become infected with frigid woe. It takes {@dice 1d4} days for the symptoms to manifest in an infected creature. These symptoms include fatigue, chills, and visible blue veins that appear on the creature's body. The infected creature's speed is reduced by 5 feet as long as it remains infected. Every 10 days after symptoms appear, an infected creature must succeed on a DC 11 Constitution saving throw, or its speed is reduced by another 5 feet. If a creature's speed is reduced to 0 as a result of this disease, the creature dies and its body turns into a statue made of ice.",
+			"A creature can drink the antidote as an action, ending all symptoms and effects of the disease instantly."
+		]
+	},
+	{
+		"name": "Flesh Rot",
+		"source": "PHB",
+		"page": 227,
+		"entries": [
+			"The creature's flesh decays. The creature has disadvantage on Charisma checks and vulnerability to all damage.",
+			"{@note This disease can be inflicted with the {@spell contagion} spell.}"
+		]
+	},
+	{
+		"name": "Filth Fever",
+		"source": "PHB",
+		"page": 227,
+		"entries": [
+			"A raging fever sweeps through the creature's body. The creature has disadvantage on Strength checks, Strength saving throws, and attack rolls that use Strength.",
+			"{@note This disease can be inflicted with the {@spell contagion} spell.}"
+		]
+	},
+	{
+		"name": "Darakhul Fever",
+		"source": "ToB",
+		"page": 215,
+		"entries": [
+			"Spread mainly through bite wounds, this rare disease makes itself known within 24 hours by swiftly debilitating the infected. A creature so afflicted must make a {@dc 17} Constitution saving throw after every long rest. Failure costs the victim {@dice 1d6} Constitution damage and {@dice 1d4} Dexterity damage. The victim recovers from the disease by making successful saving throws on two consecutive days, but the accumulating Constitution damage makes this less likely with each passing day. {@spell Greater restoration} cures the disease; {@spell cure disease} allows the victim to make the daily Constitution check with advantage. Once the disease is cured, the victim recovers 2 Dexterity points per day naturally, but only magic can restore the lost Constitution.",
+			"Primarily spread among humanoids, the disease can affect ogres, and therefore other giants may be susceptible.",
+			"If the infected creature dies while infected with darakhul fever, roll {@dice d20}, add the character's current Constitution modifier, and find the result on the Adjustment Table to determine what undead form the victim's body rises in.",
+			{
+				"type": "table",
+				"caption": "Adjustment Table",
+				"colLabels": [
+					"{@dice d20 + #$prompt_number:min=1,title=Enter Constitution Modifier,default=1$#}",
+					"Result"
+				],
+				"colStyles": [
+					"col-2 text-center",
+					"col-10"
+				],
+				"rows": [
+					[
+						{
+							"type": "cell",
+							"roll": {
+								"min": 1,
+								"max": 9
+							}
+						},
+						"None, victim is simply dead"
+					],
+					[
+						{
+							"type": "cell",
+							"roll": {
+								"min": 10,
+								"max": 16
+							}
+						},
+						"{@creature Ghoul|MM}"
+					],
+					[
+						{
+							"type": "cell",
+							"roll": {
+								"min": 17,
+								"max": 20
+							}
+						},
+						"{@creature Ghast|MM}"
+					],
+					[
+						{
+							"type": "cell",
+							"roll": {
+								"min": 21,
+								"max": 99
+							}
+						},
+						"{@creature Darakhul Ghoul|ToB|Darakhul}"
+					]
+				]
+			}
+		]
+	},
+	{
+		"name": "Darakhul Fever",
+		"source": "ToB2",
+		"page": 167,
+		"entries": [
+			"Spread mainly through bite wounds, this disease makes itself known within 24 hours by swiftly debilitating the infected. An infected creature must make a DC 17 Constitution saving throw after every long rest. On a failed save, the victim takes 14 ({@damage 4d6}) necrotic damage, and its hp maximum is reduced by an amount equal to the damage taken. This reduction lasts until the victim finishes a long rest after the disease is cured. The victim recovers from the disease by making two consecutive successful saving throws. {@spell Greater restoration} cures the disease, while {@spell lesser restoration} gives the victim advantage on the next saving throw.",
+			"Primarily spread among humanoids, the disease can affect {@creature ogre|mm|ogres}, and therefore other giants may be susceptible. If a creature dies while infected with darakhul fever, roll a {@dice d20}, add the character's Constitution modifier, and find the result on the table below to determine what undead form the victim's body rises in.",
+			{
+				"type": "table",
+				"colLabels": [
+					"Roll",
+					"Result"
+				],
+				"colStyles": [
+					"col-2 text-center",
+					"col-10"
+				],
+				"rows": [
+					[
+						"1–9",
+						"None; victim is simply dead"
+					],
+					[
+						"10–16",
+						"{@creature Ghoul}"
+					],
+					[
+						"17–20",
+						"{@creature Ghast}"
+					],
+					[
+						"21+",
+						"{@filter Darakhul|bestiary|type=undead|search=darakhul}"
+					]
+				]
+			}
+		]
+	},
+	{
+		"name": "Creeping Cold",
+		"source": "ToB2",
+		"page": 371,
+		"entries": [
+			"At the end of each long rest, the infected creature must succeed on a {@dc 13} Constitution saving throw each day or take 9 ({@damage 2d8}) cold damage and 5 ({@damage 2d4}) necrotic damage and suffer one level of {@condition exhaustion} if the creature has no levels of {@condition exhaustion}. The target's hp maximum is reduced by an amount equal to the necrotic damage taken. The {@condition exhaustion} and hp maximum reduction last until the target finishes a long rest after the disease is cured. If the disease reduces the creature's hp maximum to 0, the creature dies, and it rises as a winterghast {@dice 1d4} hours later. A creature that succeeds on two saving throws against the diseases recovers from it. Alternatively, the disease can be removed by the {@spell lesser restoration} spell or similar magic."
+		]
+	},
+	{
+		"name": "Catscratch Fugue",
+		"source": "ToB2",
+		"page": 58,
+		"entries": [
+			"Catscratch fugue is a bacterial infection that only affects felids and feline humanoids. This infectious organism is carried by debris falling into the Material Plane from the Void and is transmitted either through contact with the crash site or by being bitten by a carrier.",
+			"Upon contact, the target must succeed on a {@dc 13} Constitution saving throw or become infected. Once the host is infected, catscratch fugue incubates inside it for 3 days. During this window, the victim's skin itches, and they are prone to violent mood swings. At the end of each long rest, the infected creature can repeat the saving throw, recovering from the disease on a success. A {@spell lesser restoration} spell cast during the incubation time cures the disease.",
+			"After the third day, if the infection is still present, any negative emotion causes the victim to transform into a monstrous {@creature catscratch|ToB2} intent on destroying everything around it. Only a {@spell wish} spell can cure a {@creature catscratch|ToB2} once it has transformed."
+		]
+	},
+	{
+		"name": "Carrion Curse",
+		"source": "CCodex",
+		"entries": [
+			"Within a day, a dark discoloration around the wound is accompanied by the smell of putrefying flesh. Unless serious measures are taken to mask the smell, carrion eaters of all kinds will be drawn to the infected creature, gaining advantage on Wisdom ({@skill Perception}) checks to track the creature by smell within their usual range.",
+			"While infected with carrion curse, a creature can't be healed magically and can only heal naturally through rest and by spending hit dice. At the end of each long rest, a creature infected with carrion curse must succeed on a {@dc 13} Constitution saving throw or gain one level of {@condition exhaustion}. If an infected creature succeeds on the saving throw, it no longer gains {@condition exhaustion} levels each day. A second successful save at the end of a long rest cures the disease. The abyssal disease resists many efforts at treatment and can only be cured by a {@spell greater restoration} spell or similar magic.",
+			"A living creature that dies from the effects of carrion curse has a {@chance 75|75%} chance of rising again as a {@creature blood zombie|CCodex} within 24 hours."
+		],
+		"page": 92
+	},
+	{
+		"name": "Cackle Fever",
+		"source": "DMG",
+		"page": 257,
+		"srd": true,
+		"entries": [
+			"This disease targets humanoids, although gnomes are strangely immune. While in the grips of this disease, victims frequently succumb to fits of mad laughter, giving the disease its common name and its morbid nickname: \"the shrieks.\"",
+			"Symptoms manifest {@dice 1d4} hours after infection and include fever and disorientation. The infected creature gains one level of {@condition exhaustion} that can't be removed until the disease is cured.",
+			"Any event that causes the infected creature great stress—including entering combat, taking damage, experiencing fear, or having a nightmare—forces the creature to make a DC 13 Constitution saving throw.",
+			"On a failed save, the creature takes 5 ({@dice 1d10}) psychic damage and becomes {@condition incapacitated} with mad laughter for 1 minute. The creature can repeat the saving throw at the end of each of its turns, ending the mad laughter and the {@condition incapacitated} condition on a success. Any humanoid creature that starts its turn within 10 feet of an infected creature in the throes of mad laughter must succeed on a DC 10 Constitution saving throw or also become infected with the disease. Once a creature succeeds on this save, it is immune to the mad laughter of that particular infected creature for 24 hours.",
+			{
+				"type": "inline",
+				"entries": [
+					"At the end of each long rest, an infected creature can make a DC 13 Constitution saving throw. On a successful save, the DC for this save and for the save to avoid an attack of mad laughter drops by {@dice 1d6}. When the saving throw DC drops to 0, the creature recovers from the disease. A creature that fails three of these saving throws gains a randomly determined form of ",
+					{
+						"type": "link",
+						"href": {
+							"type": "internal",
+							"path": "variantrules.html",
+							"hash": "madness_dmg",
+							"hashPreEncoded": true
+						},
+						"text": "indefinite madness"
+					},
+					"."
+				]
+			}
+		]
+	},
+	{
+		"name": "Bonerot",
+		"source": "ToB2",
+		"page": 299,
+		"entries": [
+			"An infected creature develops the first symptoms of general weakness and lethargy within 1 hour as its bones start to rot from the inside. At the end of each long rest, the diseased creature must succeed on a {@dc 18} Constitution saving throw or its Strength and Dexterity scores are each reduced by {@dice 1d4} and its walking speed is reduced by 5 feet. The reductions last until the target finishes a long rest after the disease is cured. If the disease reduces the creature's Strength or Dexterity to 0, the creature dies. A creature that succeeds on two saving throws against the disease recovers from it. Alternatively, the disease can be removed by the {@spell lesser restoration} spell or similar magic."
+		]
+	},
+	{
+		"name": "Bog Rot",
+		"source": "ToB2",
+		"page": 309,
+		"entries": [
+			"Until the disease is cured, the infected creature's skin breaks out in a rot-like rash that slowly spreads across its body, and its hp maximum decreases by 7 ({@damage 2d6}) for every 24 hours that elapse. After the first 24 hours, the creature's skin starts to smell like rot, and creatures have advantage on Wisdom ({@skill Perception}) and Wisdom ({@skill Survival}) checks to find the infected creature. The reduction and rot smell last until the disease is cured. The creature dies if the disease reduces its hp maximum to 0."
+		]
+	},
+	{
+		"name": "Bluerot",
+		"source": "GoS",
+		"page": 234,
+		"entries": [
+			"This disease targets humanoids. While afflicted with bluerot, a victim grows grotesque blue boils on their face and back. This disease is carried by undead (including the drowned ones in Tammeraut's Fate), and victims most often acquire it through wounds caused by infected creatures. The disease's boils manifest in {@dice 1d4} hours, causing the victim's Constitution and Charisma scores to decrease by {@dice 1d4} each, to a minimum of 3. This is quickly followed by a fever and tingling in the extremities. An infected creature is vulnerable to radiant damage and gains the ability to breathe underwater.",
+			"At the end of each long rest, an infected creature makes a DC 12 Constitution saving throw. On a success, the victim regains 1 point of Constitution and 1 point of Charisma lost to the disease. If the infected creature regains all the points lost to the disease, it is cured. Other effects that raise the victim's ability scores do not cure the disease. On a failed saving throw, the victim takes 18 ({@dice 4d8}) necrotic damage as the boils burst and spread. A creature reduced to 0 hit points by this damage cannot regain hit points until the disease is cured, though it can be stabilized as normal."
+		]
+	},
+	{
+		"name": "Blue Mist Fever",
+		"source": "ToA",
+		"page": 40,
+		"entries": [
+			"A magical mist creeps through the jungles of Chult. Contact with this thin, blue, odorless mist can infect giants and humanoids with blue mist fever. A {@spell dispel magic} spell destroys the mist in a 20-foot square starting at a point chosen by the caster within the spell's range. An encounter with this mist typically covers {@dice 1d6} such areas (400-2,400 square feet).",
+			"A giant or humanoid that comes into contact with the mist must succeed on a DC 13 Constitution saving throw or become infected with blue mist fever. An infected creature begins seeing vivid hallucinations of blue monkeys {@dice 1d6} hours after failing the save, and the hallucinations last until the disease ends on the creature. A creature can repeat the saving throw every 24 hours, ending the effect on itself on a success."
+		]
+	},
+	{
+		"name": "Blinding Sickness",
+		"source": "PHB",
+		"page": 227,
+		"entries": [
+			"Pain grips the creature's mind, and its eyes turn milky white. The creature has disadvantage on Wisdom checks and Wisdom saving throws and is {@condition blinded}.",
+			"{@note This disease can be inflicted with the {@spell contagion} spell.}"
+		]
+	},
+	{
+		"name": "Arcane Wasting",
+		"source": "ToB",
+		"page": 215,
+		"entries": [
+			"An outbreak of arcane wasting is always met with horror, but that fear is felt tenfold by practitioners of magic both arcane and divine.",
+			"When the bodily fluid of an infected creature touches a humanoid or when an infected creature casts a spell (direct or indirect) on a humanoid, that humanoid must succeed on a {@dc 15} Constitution saving throw or become infected with arcane wasting. Beginning {@dice 1d6} days after infection, the infected creature must make a {@dc 15} Constitution saving throw at the end of each long rest. If the saving throw fails, the victim loses {@dice 1d3} Intelligence and {@dice 1d3} Wisdom. Lost Intelligence and Wisdom can't be recovered while the disease persists. If the saving throw succeeds, nothing happens; the disease ends after the second consecutive successful saving throws. Once the disease ends, lost Intelligence and Wisdom can be restored by {@spell greater restoration} or comparable magic. The disease is also cured by {@spell lesser restoration} if the caster makes a successful {@dc 15} spellcasting check."
+		]
+	},
+	{
+		"name": "Arcane Blight",
+		"source": "IDRotF",
+		"page": 233,
+		"entries": [
+			"Any humanoid that spends 12 hours in the necropolis must succeed on a DC 15 Constitution saving throw or contract an arcane blight. This magical disease transforms the humanoid into a {@creature nothic}, but only after the victim experiences hallucinations and feelings of isolation and paranoia. Other symptoms include clammy skin, hair loss, and myopia (nearsightedness).",
+			"A player character infected with the arcane blight gains the following flaw: \"I don't trust anyone.\" This flaw, which supersedes any conflicting flaw, is fed by delusions that are difficult for the character to distinguish from reality. Common delusions include the belief that that allies are conspiring to steal the victim's riches or otherwise turn against the victim.",
+			"Whenever it finishes a long rest, an infected humanoid must repeat the saving throw. On a successful save, the DC for future saves against the arcane blight drops by {@dice 1d6}. If the saving throw DC drops to 0, the creature overcomes the arcane blight and becomes immune to the effect of further exposure. A creature that fails three of these saving throws transforms into a {@creature nothic} under the DM's control. Only a {@spell wish} spell or divine intervention can undo this transformation.",
+			"A {@spell greater restoration} spell or similar magic ends the infection on the target, removing the flaw and all other symptoms, but this magic doesn't protect the target against further exposure."
+		]
+	}
+]

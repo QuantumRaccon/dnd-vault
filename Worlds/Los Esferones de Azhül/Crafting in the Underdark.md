@@ -1,0 +1,3 @@
+Characters can use downtime during their travels to craft equipment, provided they are proficient with the necessary tools and have access to them. Having to improvise tools doubles the crafting time, and some item require materials that are hard to find in the Underdark, including wood and other surface-world plants. Leather, bone or [[zurkhwood]] might substitute in some cases. Crafting can include modifying scavenged or salvaged items to fit other needs, such as creating a makeshift suit of armor from gathered pieces of armor and other materials. 
+
+[[Downtime Activity Crafting an Item]]

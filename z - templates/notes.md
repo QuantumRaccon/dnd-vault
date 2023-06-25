@@ -1,0 +1,66 @@
+- For template insertion use alt+T
+
+
+
+- Story World 
+	- Events
+		- Event List
+		- Incident
+		- Quest
+		- Scene
+		- Storyline
+		- Time period
+	- Groups
+		- Group list
+		- Group Commerce
+		- Group Criminal
+		- Group Ethnic
+		- Group Family
+		- Group Military
+		- Group Government
+		- Group Religious
+		- Group other
+	- People
+		- People List
+		- Merchant
+		- NPC
+	- Places
+		- Location
+		- Merchant
+		- Place List
+		- Region_Area
+		- Region_Dimensional
+		- Region_Geographical
+		- Region_political
+		- Settlement
+	- sources
+	- things
+	
+- Mechanic Gallery
+	- Abilities
+		- Feat
+		- General abilities article
+		- skill
+		- spell
+	- Character
+		- Archetype
+		- Background
+		- Class
+		- General Character Article
+		- Race
+	- Dangers
+	- Equipment
+	- Game Mastering
+	- Gameplay
+	
+- Markdown
+	- Chart examples (mermaid)
+	- Embed Website (iframe)
+	- indent paragraph
+	- Insert custom encounter (Initiative tracker)
+	- insert custom monster (TTRPG Statblock)
+	- insert Encounter (Initiative tracker)
+	- Insert Map (Leaflet)
+	- Insert markdown images
+	- Insert Monster
+	- nsert timeline

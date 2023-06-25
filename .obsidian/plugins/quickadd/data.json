@@ -1,0 +1,32 @@
+{
+  "choices": [
+    {
+      "id": "c3662f47-b005-4645-a3a6-b5025d7ee78a",
+      "name": "Add TTRPG world",
+      "type": "Template",
+      "command": true,
+      "templatePath": "z - templates/world.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Worlds/{{VALUE}}/{{VALUE}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": true,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line"
+}
